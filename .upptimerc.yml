@@ -5,14 +5,18 @@ repo: status # The name of this repository
 sites:
   - name: limes.pink
     url: https://limes.pink
-  - name: Discord Markdown Badge (user endpoint + renderer)
-    url: https://dcbadge.vercel.app/api/shield/406125028065804289
-  - name: Discord Markdown Badge (server endpoint + renderer)
-    url: https://dcbadge.vercel.app/api/server/zkspfFwqDg
-  - name: (^._.^) cat server (hosts the dcbadge backend and statistics)
+  - name: Discord Markdown Badge (user endpoint)
+    url: https://discord-md-badge.limes.pink/md-shield/json?u=406125028065804289
+  - name: Discord Markdown Badge (server endpoint)
+    url: https://discord.com/invite/zkspfFwqDg
+  - name: Discord Markdown Badge (renderer)
+    url: https://dcbadge.vercel.app/
+  - name: cat (^._.^) server (hosts the dcbadge backend and statistics)
     url: https://cat.limes.pink/
-  - name: statistics server
+  - name: stats server
     url: https://stats.limes.pink/
+  - name: status server
+    url: https://status.limes.pink/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
