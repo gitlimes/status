@@ -21,11 +21,4 @@ status-website:
   name: limes.pink
   introTitle: "Hey, I'm ash! I make stuff™"
   introMessage: This status page lets you check if it works or not.
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  themeUrl: https://status.limes.pink/pruble.css
