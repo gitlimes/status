@@ -58,19 +58,19 @@
     "url": "https://stats.limes.pink/",
     "icon": "https://icons.duckduckgo.com/ip3/stats.limes.pink.ico",
     "slug": "statistics-server",
-    "status": "down",
-    "uptime": "75.59%",
-    "uptimeDay": "75.59%",
-    "uptimeWeek": "75.59%",
-    "uptimeMonth": "75.59%",
-    "uptimeYear": "75.59%",
-    "time": 731,
-    "timeDay": 731,
-    "timeWeek": 731,
-    "timeMonth": 731,
-    "timeYear": 731,
+    "status": "up",
+    "uptime": "63.84%",
+    "uptimeDay": "63.84%",
+    "uptimeWeek": "63.84%",
+    "uptimeMonth": "63.84%",
+    "uptimeYear": "63.84%",
+    "time": 738,
+    "timeDay": 738,
+    "timeWeek": 738,
+    "timeMonth": 738,
+    "timeYear": 738,
     "dailyMinutesDown": {
-      "2023-06-13": 2
+      "2023-06-13": 6
     }
   }
 ]
