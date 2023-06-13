@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.limes.pink
   # baseUrl: /your-repo-name
-  logoUrl: https://limes.pink/assets/favicons/favicon-16x16.png
+  logoUrl: https://limes.pink/assets/images/transspinmii.gif
   name: limes.pink
   introTitle: "Hey, I'm ash! I make stuff™"
   introMessage: This status page lets you check if it works or not.
