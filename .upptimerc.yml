@@ -22,3 +22,4 @@ status-website:
   introTitle: "Hey, I'm ash! I make stuff™"
   introMessage: This status page lets you check if it works or not.
   themeUrl: https://status.limes.pink/pruble.css
+  favicon: https://limes.pink/assets/favicons/favicon-16x16.png
