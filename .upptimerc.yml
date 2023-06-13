@@ -5,8 +5,10 @@ repo: status # The name of this repository
 sites:
   - name: limes.pink
     url: https://limes.pink
-  - name: Discord Markdown Badge
+  - name: Discord Markdown Badge (user endpoint + renderer)
     url: https://dcbadge.vercel.app/api/shield/406125028065804289
+  - name: Discord Markdown Badge (server endpoint + renderer)
+    url: https://dcbadge.vercel.app/api/server/zkspfFwqDg
   - name: (^._.^) cat server (hosts the dcbadge backend and statistics)
     url: https://cat.limes.pink/
   - name: statistics server
