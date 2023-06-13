@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1369,
-    "timeDay": 1369,
-    "timeWeek": 1369,
-    "timeMonth": 1369,
-    "timeYear": 1369,
+    "time": 1520,
+    "timeDay": 1520,
+    "timeWeek": 1520,
+    "timeMonth": 1520,
+    "timeYear": 1520,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 835,
-    "timeWeek": 835,
-    "timeMonth": 835,
-    "timeYear": 835,
+    "time": 742,
+    "timeDay": 742,
+    "timeWeek": 742,
+    "timeMonth": 742,
+    "timeYear": 742,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 789,
-    "timeDay": 789,
-    "timeWeek": 789,
-    "timeMonth": 789,
-    "timeYear": 789,
+    "time": 766,
+    "timeDay": 766,
+    "timeWeek": 766,
+    "timeMonth": 766,
+    "timeYear": 766,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats.limes.pink.ico",
     "slug": "statistics-server",
     "status": "up",
-    "uptime": "63.84%",
-    "uptimeDay": "63.84%",
-    "uptimeWeek": "63.84%",
-    "uptimeMonth": "63.84%",
-    "uptimeYear": "63.84%",
-    "time": 738,
-    "timeDay": 738,
-    "timeWeek": 738,
-    "timeMonth": 738,
-    "timeYear": 738,
-    "dailyMinutesDown": {
-      "2023-06-13": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 758,
+    "timeDay": 758,
+    "timeWeek": 758,
+    "timeMonth": 758,
+    "timeYear": 758,
+    "dailyMinutesDown": {}
   }
 ]
