@@ -21,5 +21,5 @@ status-website:
   name: limes.pink
   introTitle: "Hey, I'm ash! I make stuff™"
   introMessage: This status page lets you check if it works or not.
-  themeUrl: https://raw.githubusercontent.com/gitlimes/status/master/assets/pruble.css
+  themeUrl: https://cdn.statically.io/gh/gitlimes/status/master/assets/pruble.css
   favicon: https://limes.pink/assets/favicons/favicon-16x16.png
