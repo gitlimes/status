@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/limes.pink.ico",
     "slug": "limes-pink",
     "status": "up",
-    "uptime": "94.54%",
+    "uptime": "94.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.54%",
-    "uptimeMonth": "94.54%",
-    "uptimeYear": "94.54%",
+    "uptimeWeek": "94.69%",
+    "uptimeMonth": "94.69%",
+    "uptimeYear": "94.69%",
     "time": 3445,
     "timeDay": 3745,
     "timeWeek": 3445,
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord-md-badge.limes.pink.ico",
     "slug": "discord-markdown-badge-user-endpoint",
     "status": "up",
-    "uptime": "97.89%",
-    "uptimeDay": "97.63%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "97.89%",
-    "uptimeYear": "97.89%",
+    "uptime": "98.57%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "98.57%",
     "time": 748,
     "timeDay": 687,
     "timeWeek": 748,
     "timeMonth": 748,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2023-06-14": 34
+      "2023-06-14": 24
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats.limes.pink.ico",
     "slug": "stats-server",
     "status": "up",
-    "uptime": "97.67%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "97.67%",
+    "uptime": "98.36%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
     "time": 717,
     "timeDay": 672,
     "timeWeek": 717,
     "timeMonth": 717,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2023-06-14": 37
+      "2023-06-14": 27
     }
   },
   {
