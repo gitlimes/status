@@ -24,3 +24,8 @@
   --graph-opacity: 1;
   --graph-filter: none;
 }
+
+nav {
+  opacity: 0;
+  height: 0;
+}
