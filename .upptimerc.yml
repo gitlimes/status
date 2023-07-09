@@ -7,16 +7,16 @@ sites:
     url: https://limes.pink
   - name: microsoftgithub.com
     url: https://microsoftgithub.com/usage
+  - name: limesquash server (hosts the dcbadge and stats backend)
+    url: https://limesquash.limes.pink/
   - name: Discord Markdown Badge (user endpoint)
-    url: https://discord-md-badge.limes.pink/md-shield/json?u=406125028065804289
+    url: https://dcbadge.limesquash.limes.pink/md-shield/json?u=406125028065804289
   - name: Discord Markdown Badge (server endpoint)
     url: https://discord.com/invite/zkspfFwqDg
   - name: Discord Markdown Badge (renderer)
     url: https://dcbadge.vercel.app/
-  - name: cat (^._.^) server (hosts the dcbadge backend and statistics)
-    url: https://cat.limes.pink/
   - name: stats server
-    url: https://stats.limes.pink/
+    url: https://stats.limesquash.limes.pink/
   - name: status server
     url: https://status.limes.pink/
 
