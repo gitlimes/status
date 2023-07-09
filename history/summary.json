@@ -61,10 +61,10 @@
     "url": "https://dcbadge.limesquash.limes.pink/md-shield/json?u=406125028065804289",
     "icon": "https://icons.duckduckgo.com/ip3/dcbadge.limesquash.limes.pink.ico",
     "slug": "discord-markdown-badge-user-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "98.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.63%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "94.62%",
     "uptimeMonth": "98.36%",
     "uptimeYear": "98.36%",
     "time": 929,
@@ -73,6 +73,7 @@
     "timeMonth": 929,
     "timeYear": 929,
     "dailyMinutesDown": {
+      "2023-07-09": 0,
       "2023-07-04": 521,
       "2023-07-03": 20,
       "2023-06-18": 42,
@@ -120,9 +121,9 @@
     "url": "https://stats.limesquash.limes.pink/",
     "icon": "https://icons.duckduckgo.com/ip3/stats.limesquash.limes.pink.ico",
     "slug": "stats-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
@@ -132,6 +133,7 @@
     "timeMonth": 823,
     "timeYear": 823,
     "dailyMinutesDown": {
+      "2023-07-09": 0,
       "2023-06-18": 41,
       "2023-06-14": 27
     }
