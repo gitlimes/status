@@ -66,19 +66,19 @@
     "url": "https://discord.com/invite/zkspfFwqDg",
     "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "discord-markdown-badge-server-endpoint",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 250,
-    "timeDay": 179,
-    "timeWeek": 273,
+    "timeDay": 227,
+    "timeWeek": 274,
     "timeMonth": 250,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2023-07-09": 0
+      "2023-07-09": 10
     }
   },
   {
