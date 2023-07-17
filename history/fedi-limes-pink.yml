@@ -1,7 +1,7 @@
 url: https://fedi.limes.pink/@limes
-status: up
-code: 200
-responseTime: 460
-lastUpdated: 2023-07-16T23:13:56.021Z
+status: down
+code: 502
+responseTime: 567
+lastUpdated: 2023-07-17T21:58:16.247Z
 startTime: Sun Jul 09 2023 19:47:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
