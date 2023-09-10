@@ -27,9 +27,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.limes.pink
   # baseUrl: /your-repo-name
-  logoUrl: https://limes.pink/assets/images/transspinmii.gif
+  logoUrl: https://limes.pink/assets/images/fursona_stilldefinitelynotafurrythough.png
   name: limes.pink
   introTitle: "Hey, I'm ash! I make stuff™"
   introMessage: This status page lets you check if it works or not.
-  themeUrl: https://cdn.statically.io/gh/gitlimes/status/master/assets/pruble.css
+  theme: "ocean"
   favicon: https://limes.pink/assets/favicons/favicon-16x16.png
