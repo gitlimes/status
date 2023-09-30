@@ -92,19 +92,19 @@
     "url": "https://discord.com/invite/zkspfFwqDg",
     "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "discord-markdown-badge-server-endpoint",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 315,
-    "timeWeek": 282,
-    "timeMonth": 249,
-    "timeYear": 246,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 247,
+    "timeDay": 314,
+    "timeWeek": 286,
+    "timeMonth": 251,
+    "timeYear": 247,
     "dailyMinutesDown": {
-      "2023-09-30": 1
+      "2023-09-30": 9
     }
   },
   {
