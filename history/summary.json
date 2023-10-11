@@ -92,18 +92,20 @@
     "url": "https://discord.com/invite/zkspfFwqDg",
     "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "discord-markdown-badge-server-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 156,
-    "timeWeek": 267,
-    "timeMonth": 262,
-    "timeYear": 247,
-    "dailyMinutesDown": {}
+    "time": 245,
+    "timeDay": 97,
+    "timeWeek": 238,
+    "timeMonth": 255,
+    "timeYear": 245,
+    "dailyMinutesDown": {
+      "2023-10-11": 0
+    }
   },
   {
     "name": "Discord Markdown Badge (renderer)",
