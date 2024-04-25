@@ -1,7 +1,7 @@
 url: https://status.limes.pink/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-25T13:10:03.064Z
+status: up
+code: 200
+responseTime: 406
+lastUpdated: 2024-04-25T13:31:23.482Z
 startTime: 2023-06-13T20:46:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
