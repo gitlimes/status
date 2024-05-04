@@ -7,20 +7,17 @@ sites:
     url: https://limes.pink
   - name: microsoftgithub.com
     url: https://microsoftgithub.com/usage
-  - name: limesquash server (hosts the dcbadge and stats backend, and my fedi instance)
-    url: https://limesquash.limes.pink/
-  - name: Discord Markdown Badge (user endpoint)
+  - name: Discord Markdown Badge (back-end)
     url: https://dcbadge.limesquash.limes.pink/md-shield/json?u=406125028065804289
-  - name: Discord Markdown Badge (server endpoint)
-    url: https://discord.com/invite/zkspfFwqDg
   - name: Discord Markdown Badge (renderer)
     url: https://dcbadge.vercel.app/
-  - name: fedi.limes.pink
+  - name: fedi.limes.pink (fedi instance)
     url: https://fedi.limes.pink/@limes
-  - name: stats server
-    url: https://stats.limesquash.limes.pink/
-  - name: status server
-    url: https://status.limes.pink/
+  - name: cors.limes.pink (personal cors-proxy)
+    url: https://cors.limes.pink
+  - 
+  - name: stats server (this page)
+    url: https://stats.limes.pink/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -31,5 +28,5 @@ status-website:
   name: limes.pink
   introTitle: "Hey, I'm ash! I make stuff™"
   introMessage: This status page lets you check if it works or not.
-  theme: "ocean"
+  theme: "night"
   favicon: https://limes.pink/assets/favicons/favicon-16x16.png
