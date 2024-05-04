@@ -53,19 +53,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dcbadge.limes.pink.ico",
     "slug": "discord-markdown-badge-back-end",
     "status": "up",
-    "uptime": "4.36%",
-    "uptimeDay": "4.36%",
-    "uptimeWeek": "4.36%",
-    "uptimeMonth": "4.36%",
-    "uptimeYear": "4.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 505,
     "timeDay": 505,
     "timeWeek": 505,
     "timeMonth": 505,
     "timeYear": 505,
-    "dailyMinutesDown": {
-      "2024-05-04": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discord Markdown Badge (renderer)",
