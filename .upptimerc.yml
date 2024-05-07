@@ -7,10 +7,10 @@ sites:
     url: https://limes.pink
   - name: microsoftgithub.com
     url: https://microsoftgithub.com/usage
-  - name: Discord Markdown Badge (back-end)
-    url: https://dcbadge.limes.pink/md-shield/json?u=406125028065804289
-  - name: Discord Markdown Badge (renderer)
-    url: https://dcbadge.vercel.app/
+  - name: Discord Markdown Badge (user endpoint)
+    url: https://dcbadge.limes.pink/api/shield/406125028065804289
+  - name: Discord Markdown Badge (server endpoint)
+    url: https://dcbadge.limes.pink/api/server/pretendo
   - name: fedi.limes.pink (fedi instance)
     url: https://fedi.limes.pink/@limes
   - name: cors.limes.pink (personal cors-proxy)
