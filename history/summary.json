@@ -52,18 +52,20 @@
     "url": "https://dcbadge.limes.pink/md-shield/json?u=406125028065804289",
     "icon": "https://icons.duckduckgo.com/ip3/dcbadge.limes.pink.ico",
     "slug": "discord-markdown-badge-back-end",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 623,
-    "timeDay": 779,
-    "timeWeek": 623,
-    "timeMonth": 623,
-    "timeYear": 623,
-    "dailyMinutesDown": {}
+    "time": 604,
+    "timeDay": 656,
+    "timeWeek": 604,
+    "timeMonth": 604,
+    "timeYear": 604,
+    "dailyMinutesDown": {
+      "2024-05-07": 0
+    }
   },
   {
     "name": "Discord Markdown Badge (renderer)",
