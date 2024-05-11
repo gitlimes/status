@@ -15,8 +15,6 @@ sites:
     url: https://fedi.limes.pink/@limes
   - name: cors.limes.pink (personal cors-proxy)
     url: https://cors.limes.pink
-  - name: stats server (this page)
-    url: https://stats.limes.pink/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
