@@ -1,7 +1,7 @@
 url: https://dcbadge.limes.pink/api/server/pretendo
-status: up
-code: 200
-responseTime: 11
-lastUpdated: 2024-05-13T13:38:37.394Z
+status: down
+code: 400
+responseTime: 503
+lastUpdated: 2024-05-13T14:18:37.718Z
 startTime: 2024-05-07T23:00:23.205Z
 generator: Upptime <https://github.com/upptime/upptime>
