@@ -10,7 +10,7 @@ sites:
   - name: Discord Markdown Badge (user endpoint)
     url: https://dcbadge.limes.pink/api/shield/406125028065804289
   - name: Discord Markdown Badge (server endpoint)
-    url: https://dcbadge.limes.pink/api/server/pretendo
+    url: https://dcbadge.limes.pink/api/server/zkspfFwqDg
   - name: fedi.limes.pink (fedi instance)
     url: https://fedi.limes.pink/@limes
   - name: cors.limes.pink (personal cors-proxy)
