@@ -52,7 +52,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dcbadge.limes.pink.ico",
     "slug": "discord-markdown-badge-user-endpoint",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -76,11 +76,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dcbadge.limes.pink.ico",
     "slug": "discord-markdown-badge-server-endpoint",
     "status": "up",
-    "uptime": "98.23%",
+    "uptime": "98.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.23%",
+    "uptimeYear": "98.26%",
     "time": 214,
     "timeDay": 17,
     "timeWeek": 32,
@@ -100,9 +100,9 @@
     "url": "https://fedi.limes.pink/@limes",
     "icon": "https://icons.duckduckgo.com/ip3/fedi.limes.pink.ico",
     "slug": "fedi-limes-pink-fedi-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,7 +111,9 @@
     "timeWeek": 542,
     "timeMonth": 678,
     "timeYear": 686,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-15": 0
+    }
   },
   {
     "name": "cors.limes.pink (personal cors-proxy)",
