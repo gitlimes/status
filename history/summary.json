@@ -13,7 +13,7 @@
     "time": 1942,
     "timeDay": 1074,
     "timeWeek": 937,
-    "timeMonth": 957,
+    "timeMonth": 949,
     "timeYear": 1560,
     "dailyMinutesDown": {
       "2024-11-28": 16,
@@ -63,7 +63,7 @@
     "time": 767,
     "timeDay": 998,
     "timeWeek": 863,
-    "timeMonth": 807,
+    "timeMonth": 801,
     "timeYear": 779,
     "dailyMinutesDown": {
       "2024-08-24": 19,
@@ -81,16 +81,16 @@
     "url": "https://dcbadge.limes.pink/api/server/zkspfFwqDg",
     "icon": "https://icons.duckduckgo.com/ip3/dcbadge.limes.pink.ico",
     "slug": "discord-markdown-badge-server-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "97.48%",
-    "uptimeDay": "51.04%",
+    "uptimeDay": "52.62%",
     "uptimeWeek": "82.35%",
     "uptimeMonth": "92.95%",
     "uptimeYear": "97.49%",
     "time": 148,
-    "timeDay": 140,
-    "timeWeek": 159,
-    "timeMonth": 93,
+    "timeDay": 150,
+    "timeWeek": 160,
+    "timeMonth": 96,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2025-01-11": 661,
@@ -132,7 +132,7 @@
     "time": 694,
     "timeDay": 850,
     "timeWeek": 650,
-    "timeMonth": 663,
+    "timeMonth": 653,
     "timeYear": 694,
     "dailyMinutesDown": {
       "2024-08-24": 49,
@@ -154,7 +154,7 @@
     "time": 493,
     "timeDay": 865,
     "timeWeek": 526,
-    "timeMonth": 496,
+    "timeMonth": 488,
     "timeYear": 493,
     "dailyMinutesDown": {}
   }
