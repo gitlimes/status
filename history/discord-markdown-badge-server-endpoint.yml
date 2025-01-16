@@ -1,7 +1,7 @@
 url: https://dcbadge.limes.pink/api/server/zkspfFwqDg
-status: up
-code: 200
-responseTime: 13
-lastUpdated: 2025-01-15T23:15:55.267Z
+status: down
+code: 429
+responseTime: 320
+lastUpdated: 2025-01-16T02:49:34.122Z
 startTime: 2024-05-07T23:00:23.205Z
 generator: Upptime <https://github.com/upptime/upptime>
