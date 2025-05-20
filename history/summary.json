@@ -151,9 +151,9 @@
     "url": "https://cors.limes.pink",
     "icon": "https://icons.duckduckgo.com/ip3/cors.limes.pink.ico",
     "slug": "cors-limes-pink-personal-cors-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -162,6 +162,8 @@
     "timeWeek": 427,
     "timeMonth": 487,
     "timeYear": 502,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-20": 0
+    }
   }
 ]
